@@ -1,0 +1,8 @@
+1/To run server:
+- Open terminal.
+- Change working directory to this folder.
+- run command: "node app.js"
+2/To run app
+- Open browser and go to http://localhost:3000
+- Hit "update" buttton and see data updated (mostly time, sometimes weather).
+
